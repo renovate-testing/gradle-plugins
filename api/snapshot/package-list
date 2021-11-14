@@ -1,0 +1,177 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/projects-version-catalog/[root]/index.html
+$dokka.location://addDefaultLanguageSettings/org.jetbrains.kotlin.gradle.plugin.KotlinSourceSet#/PointingToDeclaration/kotlin-library/[root]/add-default-language-settings.html
+$dokka.location://addPreRelease/kotlin.collections.MutableList[kotlin.String]#org.gradle.api.Project#kotlin.Int/PointingToDeclaration/changelog/[root]/add-pre-release.html
+$dokka.location://addRelease/kotlin.collections.MutableList[kotlin.String]#org.gradle.api.Project#kotlin.Int/PointingToDeclaration/changelog/[root]/add-release.html
+$dokka.location://android-application/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/android-application.html
+$dokka.location://android-application/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/android-application.html
+$dokka.location://android-library/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/android-library.html
+$dokka.location://android-library/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/android-library.html
+$dokka.location://auto-include/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/auto-include.html
+$dokka.location://auto-include/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/auto-include.html
+$dokka.location://ben-manes-versions/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/ben-manes-versions.html
+$dokka.location://ben-manes-versions/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/ben-manes-versions.html
+$dokka.location://buildChangelog/org.gradle.api.Project#/PointingToDeclaration/changelog/[root]/build-changelog.html
+$dokka.location://buildChangelogAsString/org.gradle.api.Project#/PointingToDeclaration/changelog/[root]/build-changelog-as-string.html
+$dokka.location://changelog/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/changelog.html
+$dokka.location://changelog/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/changelog.html
+$dokka.location://changelogFile/org.gradle.api.Project#/PointingToDeclaration/changelog/[root]/changelog-file.html
+$dokka.location://changelogWithNoBlankLines/org.gradle.api.Project#/PointingToDeclaration/changelog/[root]/changelog-with-no-blank-lines.html
+$dokka.location://compose-resources/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/compose-resources.html
+$dokka.location://compose-resources/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/compose-resources.html
+$dokka.location://compose/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/compose.html
+$dokka.location://compose/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/compose.html
+$dokka.location://containVersion/kotlin.String#kotlin.String/PointingToDeclaration/changelog/[root]/contain-version.html
+$dokka.location://detekt/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/detekt.html
+$dokka.location://detekt/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/detekt.html
+$dokka.location://dokka/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/dokka.html
+$dokka.location://dokka/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/dokka.html
+$dokka.location://gradle-plugin-publish/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/gradle-plugin-publish.html
+$dokka.location://gradle-plugin-publish/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/gradle-plugin-publish.html
+$dokka.location://h1Regex/#/PointingToDeclaration/changelog/[root]/h1-regex.html
+$dokka.location://h2Regex/#/PointingToDeclaration/changelog/[root]/h2-regex.html
+$dokka.location://h3Regex/#/PointingToDeclaration/changelog/[root]/h3-regex.html
+$dokka.location://hilt-android/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/hilt-android.html
+$dokka.location://hilt-android/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/hilt-android.html
+$dokka.location://isFinal/org.gradle.api.Project#/PointingToDeclaration/changelog/[root]/is-final.html
+$dokka.location://javiersc-all-projects/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/all-projects/[root]/javiersc-all-projects.html
+$dokka.location://javiersc-all-projects/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/all-projects/[root]/javiersc-all-projects.html
+$dokka.location://javiersc-changelog/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/changelog/[root]/javiersc-changelog.html
+$dokka.location://javiersc-changelog/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/changelog/[root]/javiersc-changelog.html
+$dokka.location://javiersc-code-analysis/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/code-analysis/[root]/javiersc-code-analysis.html
+$dokka.location://javiersc-code-analysis/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/code-analysis/[root]/javiersc-code-analysis.html
+$dokka.location://javiersc-code-formatter/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/code-formatter/[root]/javiersc-code-formatter.html
+$dokka.location://javiersc-code-formatter/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/code-formatter/[root]/javiersc-code-formatter.html
+$dokka.location://javiersc-dependency-updates/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/dependency-updates/[root]/javiersc-dependency-updates.html
+$dokka.location://javiersc-dependency-updates/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/dependency-updates/[root]/javiersc-dependency-updates.html
+$dokka.location://javiersc-docs/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/docs/[root]/javiersc-docs.html
+$dokka.location://javiersc-docs/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/docs/[root]/javiersc-docs.html
+$dokka.location://javiersc-gradle-wrapper-updater/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/gradle-wrapper-updater/[root]/javiersc-gradle-wrapper-updater.html
+$dokka.location://javiersc-gradle-wrapper-updater/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/gradle-wrapper-updater/[root]/javiersc-gradle-wrapper-updater.html
+$dokka.location://javiersc-kotlin-library/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/kotlin-library/[root]/javiersc-kotlin-library.html
+$dokka.location://javiersc-kotlin-library/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/kotlin-library/[root]/javiersc-kotlin-library.html
+$dokka.location://javiersc-massive-catalogs-updater/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/massive-catalogs-updater/[root]/javiersc-massive-catalogs-updater.html
+$dokka.location://javiersc-massive-catalogs-updater/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/massive-catalogs-updater/[root]/javiersc-massive-catalogs-updater.html
+$dokka.location://javiersc-nexus/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/nexus/[root]/javiersc-nexus.html
+$dokka.location://javiersc-nexus/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/nexus/[root]/javiersc-nexus.html
+$dokka.location://javiersc-projects-version-catalog/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/projects-version-catalog/[root]/javiersc-projects-version-catalog.html
+$dokka.location://javiersc-projects-version-catalog/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/projects-version-catalog/[root]/javiersc-projects-version-catalog.html
+$dokka.location://javiersc-publish/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/publish/[root]/javiersc-publish.html
+$dokka.location://javiersc-publish/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/publish/[root]/javiersc-publish.html
+$dokka.location://javiersc-readme-badges-generator/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/readme-badges/[root]/javiersc-readme-badges-generator.html
+$dokka.location://javiersc-readme-badges-generator/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/readme-badges/[root]/javiersc-readme-badges-generator.html
+$dokka.location://javiersc-versioning/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/versioning/[root]/javiersc-versioning.html
+$dokka.location://javiersc-versioning/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/versioning/[root]/javiersc-versioning.html
+$dokka.location://javiersc/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String#kotlin.String?/PointingToDeclaration/plugin-accessors/[root]/javiersc.html
+$dokka.location://kotlin-android/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/kotlin-android.html
+$dokka.location://kotlin-android/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/kotlin-android.html
+$dokka.location://kotlin-binary-compatibility-validator/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/kotlin-binary-compatibility-validator.html
+$dokka.location://kotlin-js/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/kotlin-js.html
+$dokka.location://kotlin-js/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/kotlin-js.html
+$dokka.location://kotlin-jvm/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/kotlin-jvm.html
+$dokka.location://kotlin-jvm/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/kotlin-jvm.html
+$dokka.location://kotlin-kapt/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/kotlin-kapt.html
+$dokka.location://kotlin-kapt/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/kotlin-kapt.html
+$dokka.location://kotlin-ksp/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/kotlin-ksp.html
+$dokka.location://kotlin-ksp/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/kotlin-ksp.html
+$dokka.location://kotlin-multiplatform/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/kotlin-multiplatform.html
+$dokka.location://kotlin-multiplatform/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/kotlin-multiplatform.html
+$dokka.location://kotlin-parcelize/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/kotlin-parcelize.html
+$dokka.location://kotlin-parcelize/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/kotlin-parcelize.html
+$dokka.location://kotlin-serialization/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/kotlin-serialization.html
+$dokka.location://kotlin-serialization/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/kotlin-serialization.html
+$dokka.location://kotlinx-binary-compatibility-validator/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/kotlinx-binary-compatibility-validator.html
+$dokka.location://mergeChangelog/org.gradle.api.Project#/PointingToDeclaration/changelog/[root]/merge-changelog.html
+$dokka.location://mkdocs/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/mkdocs.html
+$dokka.location://mkdocs/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/mkdocs.html
+$dokka.location://nexus-publish/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/nexus-publish.html
+$dokka.location://nexus-publish/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/nexus-publish.html
+$dokka.location://patchChangelog/org.gradle.api.Project#/PointingToDeclaration/changelog/[root]/patch-changelog.html
+$dokka.location://reckon/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/reckon.html
+$dokka.location://reckon/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/reckon.html
+$dokka.location://semver/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/semver.html
+$dokka.location://semver/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/semver.html
+$dokka.location://spotless/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/plugin-accessors/[root]/spotless.html
+$dokka.location://spotless/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/plugin-accessors/[root]/spotless.html
+$dokka.location://unreleasedRegex/#/PointingToDeclaration/changelog/[root]/unreleased-regex.html
+$dokka.location:/AddChangelogItem///PointingToDeclaration/changelog/[root]/-add-changelog-item/index.html
+$dokka.location:/AddChangelogItem/AddChangelogItem/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/-add-changelog-item.html
+$dokka.location:/AddChangelogItem/added/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/added.html
+$dokka.location:/AddChangelogItem/changed/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/changed.html
+$dokka.location:/AddChangelogItem/deprecated/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/deprecated.html
+$dokka.location:/AddChangelogItem/fixed/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/fixed.html
+$dokka.location:/AddChangelogItem/removed/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/removed.html
+$dokka.location:/AddChangelogItem/renovate/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/renovate.html
+$dokka.location:/AddChangelogItem/renovateCommitTable/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/renovate-commit-table.html
+$dokka.location:/AddChangelogItem/renovatePath/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/renovate-path.html
+$dokka.location:/AddChangelogItem/run/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/run.html
+$dokka.location:/AddChangelogItem/updated/#/PointingToDeclaration/changelog/[root]/-add-changelog-item/updated.html
+$dokka.location:/AndroidSdk///PointingToDeclaration/kotlin-library/[root]/-android-sdk/index.html
+$dokka.location:/AndroidSdk/compileSdk/#/PointingToDeclaration/kotlin-library/[root]/-android-sdk/compile-sdk.html
+$dokka.location:/AndroidSdk/minSdk/#/PointingToDeclaration/kotlin-library/[root]/-android-sdk/min-sdk.html
+$dokka.location:/Com_javiersc_gradle_plugins_all_projectsPlugin///PointingToDeclaration/all-projects/[root]/-com_javiersc_gradle_plugins_all_projects-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_all_projectsPlugin/Com_javiersc_gradle_plugins_all_projectsPlugin/#/PointingToDeclaration/all-projects/[root]/-com_javiersc_gradle_plugins_all_projects-plugin/-com_javiersc_gradle_plugins_all_projects-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_all_projectsPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/all-projects/[root]/-com_javiersc_gradle_plugins_all_projects-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_changelogPlugin///PointingToDeclaration/changelog/[root]/-com_javiersc_gradle_plugins_changelog-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_changelogPlugin/Com_javiersc_gradle_plugins_changelogPlugin/#/PointingToDeclaration/changelog/[root]/-com_javiersc_gradle_plugins_changelog-plugin/-com_javiersc_gradle_plugins_changelog-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_changelogPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/changelog/[root]/-com_javiersc_gradle_plugins_changelog-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_analysisPlugin///PointingToDeclaration/code-analysis/[root]/-com_javiersc_gradle_plugins_code_analysis-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_analysisPlugin/Com_javiersc_gradle_plugins_code_analysisPlugin/#/PointingToDeclaration/code-analysis/[root]/-com_javiersc_gradle_plugins_code_analysis-plugin/-com_javiersc_gradle_plugins_code_analysis-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_analysisPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/code-analysis/[root]/-com_javiersc_gradle_plugins_code_analysis-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_formatterPlugin///PointingToDeclaration/code-formatter/[root]/-com_javiersc_gradle_plugins_code_formatter-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_formatterPlugin/Com_javiersc_gradle_plugins_code_formatterPlugin/#/PointingToDeclaration/code-formatter/[root]/-com_javiersc_gradle_plugins_code_formatter-plugin/-com_javiersc_gradle_plugins_code_formatter-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_formatterPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/code-formatter/[root]/-com_javiersc_gradle_plugins_code_formatter-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_dependency_updatesPlugin///PointingToDeclaration/dependency-updates/[root]/-com_javiersc_gradle_plugins_dependency_updates-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_dependency_updatesPlugin/Com_javiersc_gradle_plugins_dependency_updatesPlugin/#/PointingToDeclaration/dependency-updates/[root]/-com_javiersc_gradle_plugins_dependency_updates-plugin/-com_javiersc_gradle_plugins_dependency_updates-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_dependency_updatesPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/dependency-updates/[root]/-com_javiersc_gradle_plugins_dependency_updates-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_docsPlugin///PointingToDeclaration/docs/[root]/-com_javiersc_gradle_plugins_docs-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_docsPlugin/Com_javiersc_gradle_plugins_docsPlugin/#/PointingToDeclaration/docs/[root]/-com_javiersc_gradle_plugins_docs-plugin/-com_javiersc_gradle_plugins_docs-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_docsPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/docs/[root]/-com_javiersc_gradle_plugins_docs-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_gradle_wrapper_updaterPlugin///PointingToDeclaration/gradle-wrapper-updater/[root]/-com_javiersc_gradle_plugins_gradle_wrapper_updater-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_gradle_wrapper_updaterPlugin/Com_javiersc_gradle_plugins_gradle_wrapper_updaterPlugin/#/PointingToDeclaration/gradle-wrapper-updater/[root]/-com_javiersc_gradle_plugins_gradle_wrapper_updater-plugin/-com_javiersc_gradle_plugins_gradle_wrapper_updater-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_gradle_wrapper_updaterPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/gradle-wrapper-updater/[root]/-com_javiersc_gradle_plugins_gradle_wrapper_updater-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_massive_catalogs_updaterPlugin///PointingToDeclaration/massive-catalogs-updater/[root]/-com_javiersc_gradle_plugins_massive_catalogs_updater-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_massive_catalogs_updaterPlugin/Com_javiersc_gradle_plugins_massive_catalogs_updaterPlugin/#/PointingToDeclaration/massive-catalogs-updater/[root]/-com_javiersc_gradle_plugins_massive_catalogs_updater-plugin/-com_javiersc_gradle_plugins_massive_catalogs_updater-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_massive_catalogs_updaterPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/massive-catalogs-updater/[root]/-com_javiersc_gradle_plugins_massive_catalogs_updater-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_nexusPlugin///PointingToDeclaration/nexus/[root]/-com_javiersc_gradle_plugins_nexus-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_nexusPlugin/Com_javiersc_gradle_plugins_nexusPlugin/#/PointingToDeclaration/nexus/[root]/-com_javiersc_gradle_plugins_nexus-plugin/-com_javiersc_gradle_plugins_nexus-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_nexusPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/nexus/[root]/-com_javiersc_gradle_plugins_nexus-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_publishPlugin///PointingToDeclaration/publish/[root]/-com_javiersc_gradle_plugins_publish-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_publishPlugin/Com_javiersc_gradle_plugins_publishPlugin/#/PointingToDeclaration/publish/[root]/-com_javiersc_gradle_plugins_publish-plugin/-com_javiersc_gradle_plugins_publish-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_publishPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/publish/[root]/-com_javiersc_gradle_plugins_publish-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_readme_badges_generatorPlugin///PointingToDeclaration/readme-badges/[root]/-com_javiersc_gradle_plugins_readme_badges_generator-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_readme_badges_generatorPlugin/Com_javiersc_gradle_plugins_readme_badges_generatorPlugin/#/PointingToDeclaration/readme-badges/[root]/-com_javiersc_gradle_plugins_readme_badges_generator-plugin/-com_javiersc_gradle_plugins_readme_badges_generator-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_readme_badges_generatorPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/readme-badges/[root]/-com_javiersc_gradle_plugins_readme_badges_generator-plugin/apply.html
+$dokka.location:/Com_javiersc_gradle_plugins_versioningPlugin///PointingToDeclaration/versioning/[root]/-com_javiersc_gradle_plugins_versioning-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_versioningPlugin/Com_javiersc_gradle_plugins_versioningPlugin/#/PointingToDeclaration/versioning/[root]/-com_javiersc_gradle_plugins_versioning-plugin/-com_javiersc_gradle_plugins_versioning-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_versioningPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/versioning/[root]/-com_javiersc_gradle_plugins_versioning-plugin/apply.html
+$dokka.location:/KotlinLibraryType.Android///PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-android/index.html
+$dokka.location:/KotlinLibraryType.Android/Android/#kotlin.Int#kotlin.Int#kotlin.Boolean/PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-android/-android.html
+$dokka.location:/KotlinLibraryType.Android/configure/#org.gradle.api.Project/PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-android/configure.html
+$dokka.location:/KotlinLibraryType.Companion///PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-companion/index.html
+$dokka.location:/KotlinLibraryType.Companion/build/#org.gradle.api.Project/PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-companion/build.html
+$dokka.location:/KotlinLibraryType.KotlinJVM///PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-kotlin-j-v-m/index.html
+$dokka.location:/KotlinLibraryType.KotlinJVM/configure/#org.gradle.api.Project/PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-kotlin-j-v-m/configure.html
+$dokka.location:/KotlinLibraryType.KotlinMultiplatform///PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-kotlin-multiplatform/index.html
+$dokka.location:/KotlinLibraryType.KotlinMultiplatform/configure/#org.gradle.api.Project/PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-kotlin-multiplatform/configure.html
+$dokka.location:/KotlinLibraryType.KotlinMultiplatformWithAndroid///PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-kotlin-multiplatform-with-android/index.html
+$dokka.location:/KotlinLibraryType.KotlinMultiplatformWithAndroid/configure/#org.gradle.api.Project/PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/-kotlin-multiplatform-with-android/configure.html
+$dokka.location:/KotlinLibraryType///PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/index.html
+$dokka.location:/KotlinLibraryType/configure/#org.gradle.api.Project/PointingToDeclaration/kotlin-library/[root]/-kotlin-library-type/configure.html
+module:core
+com.javiersc.gradle.plugins.core
+module:core-test
+com.javiersc.gradle.plugins.core.test
+module:all-projects
+com.javiersc.gradle.plugins.all.projects
+module:docs
+com.javiersc.gradle.plugins.docs.internal
+module:kotlin-library
+com.javiersc.gradle.plugins
+module:publish
+com.javiersc.gradle.plugins.publish.internal
+module:projects-version-catalog
+com.javiersc.gradle.plugins.projects.version.catalog
+com.javiersc.gradle.plugins.projects.version.catalog.internal
+com.javiersc.gradle.plugins.projects.version.catalog.models
